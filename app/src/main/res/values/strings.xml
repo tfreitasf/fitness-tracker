@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">FitnessTracker</string>
     <string name="label_imc">IMC</string>
+    <string name="cd_btn_bmi">Botão para calcular IMC</string>
+    <string name="txt_bmiDescription">IMC é a sigla para Índice de Massa Corporal que serve para avaliar o peso do indivíduo em relação à sua altura e assim indicar se está dentro do peso ideal, acima ou abaixo do peso desejado.\n\nPreencha os campos de peso e altura para descobrir o seu IMC</string>
+    <string name="hint_weight">Peso (KG)</string>
+    <string name="hint_height">Altura (cm)</string>
+    <string name="btxt_calculate">Calcular</string>
 </resources>

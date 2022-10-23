@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <LinearLayout
+        android:id="@+id/btn_bmi"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
@@ -17,7 +18,8 @@
         <ImageView
             android:layout_width="24dp"
             android:layout_height="24dp"
-            android:src="@drawable/ic_footprints_on_a_scale" />
+            android:src="@drawable/ic_footprints_on_a_scale"
+            android:contentDescription="@string/cd_btn_bmi" />
 
         <TextView
             android:layout_width="wrap_content"
